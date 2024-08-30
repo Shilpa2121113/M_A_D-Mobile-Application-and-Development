@@ -1,34 +1,3 @@
-Skip to content
-Navigation Menu
-ranjodh-kaur
-/
-M_A_D-Mobile-Application-and-Development
-
-Type / to search
-Code
-Pull requests
-5
-Actions
-Projects
-Security
-Insights
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
- 
- 
-...
- 
- 
-  Able to merge. These branches can be automatically merged.
-Discuss and review the changes in this comparison with others. Learn about pull requests
- 1 commit
- 1 file changed
- 1 contributor
-Commits on Aug 30, 2024
-Create practical3.md
-
-@Shilpa2121113
-
 ## PRACTICAL 3. To study various XML Files needed for interface design
 #### In Android User Interface (UI) design, XML (Extensible Markup Language) files are crucial for defining the layout and appearance of the app's user interface. Here's an explanation of the various XML files you might encounter:
 
